@@ -10,6 +10,7 @@ Open `index.html` in a browser.
 
 - `index.html` - homepage
 - `shop.html` - product grid and manual payment order form
+- `wise-man-journal.html` - dedicated men's journal product and founder story
 - `learn.html` - long-form "5 reasons to journal" page
 - `styles.css` - shared styling
 - `script.js` - mobile menu and form behavior
